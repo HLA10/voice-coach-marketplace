@@ -1,0 +1,8 @@
+{
+  "name": "voice-coach",
+  "version": "0.2.1",
+  "description": "Personal voice coach for English, French and Swedish: accent and pronunciation drills, intonation and rhythm, listening training with spoken model audio and recording feedback (via Speko), and daily practice plans with a progress log.",
+  "keywords": ["pronunciation", "accent", "listening", "english", "french", "swedish", "language-learning"],
+  "author": { "name": "Huffman" },
+  "license": "MIT"
+}
